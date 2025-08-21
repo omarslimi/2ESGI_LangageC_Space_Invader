@@ -1,0 +1,6 @@
+### Format : nb_minions vitesse_minion vie_minion ###
+### Chaque ligne = une vague (niveau) ###
+### Exemple : 5 3 120 → 5 ennemis, vitesse 3, vie 120 ###
+1 1 60
+3 1 200
+5 10 1
