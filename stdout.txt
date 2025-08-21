@@ -1,1 +1,0 @@
-niveau=1 boss_mode=0

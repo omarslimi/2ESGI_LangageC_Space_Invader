@@ -1,0 +1,12 @@
+# Fichiers compilés
+*.o
+*.exe
+projet
+
+# Fichiers temporaires
+stdout.txt
+nul
+
+# IDE
+.vscode/
+*.code-workspace
